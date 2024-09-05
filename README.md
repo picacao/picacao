@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Huan Le</h1>
+<h1 align="center">Hi 👋, I'm Picacao</h1>
 <h3 align="center">A passionate WordPress and curious NextJS</h3>
 
 <h3 align="left">Connect with me:</h3>
