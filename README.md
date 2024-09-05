@@ -2,7 +2,7 @@
 <h3 align="center">A passionate WordPress and curious NextJS</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p>Email : duchuanit@gmail.com</p>
+<p>Email : found@duchuanblog.com</p>
 <p align="center">
 </p>
 
