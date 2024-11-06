@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Picacao</h1>
-<h3 align="center">A passionate WordPress and curious Node, Remix</h3>
+<h3 align="center">As a WordPress enthusiast and curious about NodeJS and Remix</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p>Email : found@duchuanblog.com</p>
