@@ -1,3 +1,20 @@
+:root{
+  --day:#F89B28;
+  --day-w:#FFF2C9;
+  --tommorow:#395F18;
+  --tommorow-w:#FEFFC4;
+  --sefl:#0B4A3B;
+  --sefl-w:#FFD15C;
+  --down:#395F18;
+  --down-w:#FEF6C7;
+  --work:#51A7BF;
+  --work-w:#DAF4FF;
+  --go:#662C1B;
+  --go-w:#FFD15C;
+  --pink:#FF7973;
+  --pink-w:#FDEBEC;
+}
+
 /* Các lớp offset và ordering giúp bạn điều chỉnh vị trí của các cột trong một hàng */
 /* Lớp container, row, và col */
 /* Container classes */
