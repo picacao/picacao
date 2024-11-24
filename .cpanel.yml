@@ -1,0 +1,6 @@
+# .cpanel.yml
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/picacao/public_html/namsan.io.vn
+    - /bin/cp -r * $DEPLOYPATH/
