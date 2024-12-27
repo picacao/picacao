@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Picacao</h1>
-<h3 align="center">As a WordPress enthusiast and curious about NodeJS and Remix</h3>
-
+<h3 align="center">As  enthusiast and curious about NodeJS and Remix</h3>
+I'm Huan Le, a web developer from SaiGon, Vietnam. I love programming both as a job and as a hobby and I spend a lot of time writing code and testing out new ideas. I work mainly with web technologies such as WorrdPress,JavaScript, Node.js, React and SCSS, and I occasionally dabble in Remix.
 <h3 align="left">Connect with me:</h3>
 <p>Email : found@duchuanblog.com</p>
 <p align="center">
