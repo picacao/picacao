@@ -1,5 +1,5 @@
 <h1>I'm Huan Le  👋, Picacao</h1>
-<h3>As  enthusiast WordPress and curious about NodeJS and Remix</h3>
+<h3>A passionate WordPress enthusiast with a growing curiosity for NodeJS and RemixJS.</h3>
 I'm Huan Le (call me Picacao) a web developer from SaiGon, Vietnam. I love programming both as a job and as a hobby and I spend a lot of time writing code and testing out new ideas. I work mainly with web technologies such as WordPress , JavaScript, Node.js, React, and I occasionally dabble in Remix.
 
 ### My work
