@@ -6,7 +6,7 @@ I'm Huan Le (call me Picacao) a web developer from SaiGon, Vietnam. I love progr
 
 - I work as a Co-Founder of [Nam San Solution](https://namsan.nl/)
 - I am the creator of [Duc Huan Blog](https://duchuanblog.com)
-- I code a lot for our Boss (HongKong) - [SinoMax Management Ltd](https://sinomax.hk)
+
 
 <h3 align="left">Contact:</h3>
 <p>Email : found@duchuanblog.com</p>
