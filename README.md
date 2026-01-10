@@ -2,8 +2,6 @@
 <h3>A passionate WordPress enthusiast with a growing curiosity for RemixJS.</h3>
 I'm Huan Le, a web developer from SaiGon, Vietnam. I love programming both as a job and as a hobby and I spend a lot of time writing code and testing out new ideas. I work mainly with web technologies such as WordPress , JavaScript and I occasionally dabble in Remix.
 
-### My work
-- I am the creator of [Duc Huan Blog](https://duchuanblog.com)
 
 <p align="center">
 </p>
